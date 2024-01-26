@@ -1,0 +1,5 @@
+/route par login and signup hoga
+/profile par aapko aapki profile dikhegi and aapke saved posts dikhenge ,aur ek uploaded section hoga jo abhi nhi bana rhe
+/feed yaha par saari images dikhegi
+/click karke image open hojaayegi 
+/board /:boardname poora board dikhega 

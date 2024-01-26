@@ -1,0 +1,5 @@
+data association 
+ek model ko dusre model se connect krna id k trough  matlab ki agar aap k pass ek user hai to wo post bnayega hi, jab post bnayega to wo user ke dwara hi bnayega, to hum kya krte hai ki jab do aise data aapas mein closely relate hote hai to hum dono ko jod dete hai, ki ek model k bne huye ata ki id doosre model ke data ko deete hai aur is model k data ki id pichle model ko dete hai.
+
+do models bnat h 
+ab ek route bnayo jisme user bn jaaye
